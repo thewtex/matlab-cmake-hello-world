@@ -1,0 +1,5 @@
+A hello world project to demonstate Matlab mex file generation with CMake.  
+
+For more information, see
+http://www.cmake.org/Wiki/CMake:MatlabMex
+
